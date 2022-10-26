@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Komiks8457
 - 👀 I’m interested in PHP, SQL, ASP, C# programming
-- 🌱 I’m currently learning Linux Invironment
+- 🌱 I’m currently learning Linux Environment
 - 💞️ I’m looking to collaborate on any project related to PHP, SQL, C#.
 - 📫 You can contact me discord --> Komiks👀#8457 <--
 
